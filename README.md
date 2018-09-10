@@ -1,1 +1,1 @@
-# setc.github.io
+# setc-boston.github.io
